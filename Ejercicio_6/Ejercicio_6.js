@@ -19,7 +19,5 @@ if(path != null && path != ""){
 	
   return result;
 }
-function accesorSecundario(path){
-	
-};
-console.log(accesor(obj,null));
+
+console.log(accesor(obj,null,'p1'));
